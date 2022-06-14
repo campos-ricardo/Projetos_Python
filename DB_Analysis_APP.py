@@ -1,4 +1,4 @@
-
+## Essa é o bloco principal de processamento para o software de análise dos estados geradores elétricos de uma planta termoelétrica 
 ###########################################################################################################################
 ## Inclusação de bibliotecas e funções secundáris
 
