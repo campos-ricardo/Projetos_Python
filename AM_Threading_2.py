@@ -1,3 +1,6 @@
+# This file contains the threading algorithm used in the classification software for Electrical Generators
+# This allows for interface to process multiple signals at the same time
+
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
